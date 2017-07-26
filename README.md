@@ -5,7 +5,7 @@ In the script run.js:
 
 Configuration:
 Change the value of mqtt_url to the mqtt broker (say mqtt://something.com)
-Change the value of host to just the domain name (say somthing.com)
+Change the value of host to just the domain name (say something.com)
 And then change the password and username that is set on the broker.
 
 Run:
