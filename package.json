@@ -1,0 +1,34 @@
+{
+  "name": "mqtt_node_pwd",
+  "version": "1.0.0",
+  "description": "Example script to connect to a secured mqtt server via node.js using the mqtt npm package.",
+  "main": "run.js",
+  "scripts": {
+    "test": "node run"
+  },
+  "author": "Raja Nand Sharma <rajpeaks@gmail.com>",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "mqtt": "^2.9.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/raj96/mqtt_node_pwd.git"
+  },
+  "keywords": [
+    "mqtt",
+    "node.js",
+    "mqtt_passwd",
+    "authenticated",
+    "mqtt",
+    "server",
+    "protected",
+    "mqtt",
+    "server"
+  ],
+  "bugs": {
+    "url": "https://github.com/raj96/mqtt_node_pwd/issues"
+  },
+  "homepage": "https://github.com/raj96/mqtt_node_pwd#readme"
+}
